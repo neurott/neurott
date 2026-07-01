@@ -1,10 +1,6 @@
 # neurot
 
-Estudiante de Ingeniería en informática
-
-
-
-## Tech Stack
+## STACK
 
 (FALTA MUCHO QUE APRENDER)
 
