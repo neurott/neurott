@@ -2,7 +2,11 @@
 
 Estudiante de Ingeniería en informática
 
+
+
 ## Tech Stack
+
+(FALTA MUCHO QUE APRENDER)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
