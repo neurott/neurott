@@ -1,5 +1,3 @@
-# neurot
-
 ## STACK
 
 (FALTA MUCHO QUE APRENDER)
